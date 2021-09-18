@@ -1,2 +1,2 @@
 <?php   
-echo 'github';
+echo 'edit';
